@@ -42,7 +42,7 @@ The system applies the following filters based on predictions:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YourUsername/Realtime-Emotion-Detection-CNN.git
+   git clone https://github.com/VahidRajabi2079/Realtime-Emotion-Detection-CNN.git
    cd Realtime-Emotion-Detection-CNN
    ```
 
@@ -74,12 +74,9 @@ The model is a deep Convolutional Neural Network (CNN) consisting of:
 ## 📊 Results
 The model achieves approximately **60%+ accuracy** on the validation set.
 
-![Training History](outputs/training_history.png)
+![Training History](output/training_history.png)
 *(Replace this path with your actual image path if available)*
 
 ## 👤 Author
-**[Your Name / Your Student ID]**
-Malek Ashtar University - Computer Vision Course (Winter 2024)
-"# Realtime-Emotion-Detection" 
-"# Realtime-Emotion-Detection" 
-"# Realtime-Emotion-Detection" 
+**[Vahid Rajabi]**
+Computer Vision Course (Winter 2026)
